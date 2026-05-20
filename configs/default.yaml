@@ -1,0 +1,6 @@
+project:
+  status: scaffold
+  random_seed: 42
+paths:
+  data_sample: data/sample
+  outputs: outputs

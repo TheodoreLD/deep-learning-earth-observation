@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+
+# Data and outputs
+data/raw/
+data/external/
+outputs/
+reports/figures/generated/
+models/
+*.parquet
+*.tif
+*.tiff
+*.gpkg
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

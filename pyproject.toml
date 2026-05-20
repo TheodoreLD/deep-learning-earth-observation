@@ -1,0 +1,8 @@
+[project]
+name = "deep_learning_earth_observation"
+version = "0.1.0"
+description = "Computer vision, transfer learning, multimodal modeling, and spatial validation for satellite-style imagery."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
